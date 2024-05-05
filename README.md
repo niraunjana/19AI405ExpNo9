@@ -1,10 +1,12 @@
-<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: NIRAUNJANA GAYATHRI G R</h3>
-<h3>Register Number : 212222230096</h3>
-<H3>Aim:</H3>
-<p>
-    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
-</p>
+<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1>
+
+```
+Name: NIRAUNJANA GAYATHRI G R
+Register Number : 212222230096
+```
+
+## Aim:
+To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 <h1>Problem Description</h1>
 <hr>
 <h2>Wumpus World</h2>
@@ -140,8 +142,6 @@ while(player):
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
 ```
-
-
 <hr>
 <h1>Sample Input and Output:</h1>
 <hr>
